@@ -7,7 +7,7 @@ public class LinkedListPerformance {
     public static long getTime;
 
     public static void testLinkedList(int repetitions) {
-        //int repetitions = entered_time; // Количество повторений вызова методов
+        //repetitions Количество повторений вызова методов
         List<Integer> linkedList = new LinkedList<>();
 
         // Метод add
@@ -27,15 +27,20 @@ public class LinkedListPerformance {
         deleteTime = endTime - startTime;
 
         // Метод get
-        for (int i = 0; i < repetitions; i++) {
-            linkedList.add(i);
-        }
         startTime = System.nanoTime();
         for (int i = 0; i < repetitions; i++) {
-            linkedList.get(i);
+            int element = linkedList.get(i);
         }
         endTime = System.nanoTime();
         getTime = endTime - startTime;
+
+        // Метод delete
+        startTime = System.nanoTime();
+        for (int i = repetitions - 1; i >= 0; i--) {
+            linkedList.remove(i);
+        }
+        endTime = System.nanoTime();
+        deleteTime = endTime - startTime;
 
         // Вывод результатов
         System.out.println("\033[1;4m" + "LinkedList Performance Results:" + "\033[0m");
