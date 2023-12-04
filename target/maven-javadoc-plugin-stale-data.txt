@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/USER/Desktop/CollectionPerformanceTest/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/USER/Desktop/CollectionPerformanceTest/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CollectionPerformanceTest 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CollectionPerformanceTest 1.0-SNAPSHOT API'
+org.example
+C:\Users\USER\Desktop\CollectionPerformanceTest\src\main\java = 1701530967519
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\allclasses-index.html = 1701717860511
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\allpackages-index.html = 1701717860516
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\copy.svg = 1701717860565
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\element-list = 1701717860431
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\help-doc.html = 1701717860555
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\index-all.html = 1701717860540
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\index.html = 1701717860548
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\link.svg = 1701717860568
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\member-search-index.js = 1701717860526
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\module-search-index.js = 1701717860518
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\overview-tree.html = 1701717860494
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\package-search-index.js = 1701717860520
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\script.js = 1701717860562
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\search-page.js = 1701717860577
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\search.html = 1701717860543
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\search.js = 1701717860572
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\stylesheet.css = 1701717860559
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\tag-search-index.js = 1701717860528
+C:\Users\USER\Desktop\CollectionPerformanceTest\target\site\apidocs\type-search-index.js = 1701717860523
